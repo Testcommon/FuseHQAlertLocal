@@ -1,0 +1,2 @@
+ng ESB transfers to RosterLive and Preceda are not affected, only the original timeclocks file is copied to another folder and to be consumed by the GroundOps Rostering ESB application. This modification has been deployed to the test environment and tested successfully. The change needs to be made to the production ESB Roster Live application in preparation for the upcoming system integration testing for GroundOps Rostering Implementation project.
+
