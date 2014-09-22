@@ -1,3 +1,3 @@
-Project for Sample Test
-=======================
+Project for Testing
+===================
 Sample Project for committing and Testing.
